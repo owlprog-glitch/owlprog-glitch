@@ -9,7 +9,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse r
 
 💬 Experiência
 
-- Minha experiencia com programação começou quando comecei a estudar o curso técnico, e comecei a gostar, mas aquilo foi suficiente para eu decidir ir para faculdade, sendo que já sabia como era a jogada dos estudos.
+- Minha experiencia com programação começou quando estudei o curso técnico, e comecei a gostar, mas aquilo foi suficiente para eu decidir ir para faculdade, sendo que já sabia como era a jogada dos estudos.
 - Eu já tinha feito portfólio, mas não utilizei muito no início, agora que estou atualizando tudo.
 
 🔭 Mas qual linguagem de programação que utilizo? 
