@@ -16,6 +16,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse r
 
 - Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android.
 - Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧.
+Hoje em dia, aprendo apenas Server e Banco de Dados
 
 
 🌱 O que estou aprendendo?
