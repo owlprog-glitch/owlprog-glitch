@@ -14,8 +14,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse r
 
 🔭 Mas qual linguagem de programação que utilizo? 
 
-- Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android que era o principal, mas sabe que sempre tem alguém para atrapalhar o projeto, né? Por que atrapalhar, o que houve naquela época? 
-Resposta: Queriamos fazer o projeto do nosso jeito, mas o que se diz orientador não quis que fizessemos isso, isso foi no projeto "TCC- Emergência",<!-- queria que juntassemos com a Enfermagem, mas não aconteceu essa junção, isso seria uma boa idéia, voltou atrás.--> isso para mim foi bem chato, mas tirando a parte que o orientador não quis que fizessemos do nosso jeito, conseguimos nota boa no TCC.
+- Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android.
 - Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧.
 
 
@@ -31,11 +30,13 @@ Resposta: Queriamos fazer o projeto do nosso jeito, mas o que se diz orientador 
 - Leio mangá
 - Desenho (Na verdade, a maioria dos desenhos são psicológicos, por isso não posso mostrar muito)
 - Amo livros (além de analisar os personagens)
+- Costura e cozinhar
+
 
 😄 Como surgiu esse nome?
 
 Hasnma: junção de Hashira com Kolunma (Desenho com Charge)
-Glitch: Na verdade nem me lembro por qual motivo dessa palavra. Mas talvez seja por causa de memórias. 
+Glitch: Na verdade nem me lembro por qual motivo dessa palavra. Mas talvez seja por causa de memórias. Algumas vezes quando sonho, aparece algo como estática de TV (mas isso é raro, não acontece toda hora) 
 
 📎 Sobre o currículo, não postarei por motivo de orientação e proteção cibernética.
 
