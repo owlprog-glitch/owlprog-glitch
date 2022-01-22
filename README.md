@@ -1,22 +1,15 @@
-### Hi there 👋
-
 _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse recurso recentemente):_
 
-- 23 anos | ♓
-- Gosto muito de ler, voltei a ler esse ano, fiquei uns 5 anos sem ler por causa de estudos da faculdade e cursos.
-- Eu gosto de programar, raramente contando histórias e pensamentos, se você quiser vê mais, acesse meus outros repositórios que conto algumas coisas, detalhando que saio bastante. Quando não consigo parar de pensar naquelas ideias, planejo bastante 🙂
-- Além de ler e programar, faço desenhos, raramente gravo vídeos aleatórios sobre meu dia-a-dia.
+- 23 anos | ♓ | Leitura <3 | Programação | Desenhos
 
 💬 Experiência
 
 - Minha experiencia com programação começou quando estudei o curso técnico, e comecei a gostar, mas aquilo foi suficiente para eu decidir ir para faculdade, sendo que já sabia como era a jogada dos estudos.
-- Eu já tinha feito portfólio, mas não utilizei muito no início, agora que estou atualizando tudo.
+- Eu já tinha feito portfólio, mas não utilizei muito no início, agora que estou atualizando tudo colocando os projetos aleatórios (e contando como imagino)
 
 🔭 Mas qual linguagem de programação que utilizo? 
 
-- Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android.
-- Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧.
-Hoje em dia, aprendo apenas Server e Banco de Dados
+_Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android. Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o ._
 
 
 🌱 O que estou aprendendo?
@@ -27,12 +20,18 @@ Hoje em dia, aprendo apenas Server e Banco de Dados
 
 ⚡ Hobbies
 
-- Assisto animes
-- Leio mangá
+- Animes e mangás
 - Desenho (Na verdade, a maioria dos desenhos são psicológicos, por isso não posso mostrar muito)
 - Amo livros (além de analisar os personagens)
 - Costura e cozinhar
 
+🐧 Habilidades
+
+- SQL e NoSQL
+- Git
+- Planejamento de Projeto
+- WEB
+- Linux
 
 😄 Como surgiu esse nome?
 
