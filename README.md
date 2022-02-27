@@ -23,7 +23,11 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 🌱 O que estou aprendendo?
 
-- Estou aprendendo um pouco as linguagens de programação "antiga e nova" que o mercado exige. Por qual motivo de antiga e nova? Recentemente andei estudando as árvores de família da programação, algumas são upgrade daquela antiga com mudança no nome.
+- Estou aprendendo um pouco as linguagens de programação "antiga e nova" que o mercado exige. 
+
+- Por qual motivo de antiga e nova? 
+Recentemente andei estudando as árvores de família da programação, algumas são upgrade daquela antiga com mudança no nome.
+
 - Marketing
 - Comportamento psicológico/Organizacional
 
@@ -35,7 +39,6 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 - Costura e cozinhar
 
 📎 Sobre o currículo, não postarei por motivo de orientação e proteção cibernética.
-
 
 <!--😄 Como surgiu esse nome?
 
