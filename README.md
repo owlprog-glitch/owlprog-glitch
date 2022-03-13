@@ -1,6 +1,6 @@
 _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse recurso recentemente):_
 
-- 23 anos | ♓ | Leitura <3 | Programação | Desenhos
+- 24 anos | ♓ | Leitura <3 | Programação | Desenhos
 
 💬 Experiência
 
