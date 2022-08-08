@@ -9,7 +9,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse r
 
 🔭 Mas qual linguagem de programação que utilizo? 
 
-_Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android. Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o ._
+_Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android. Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧._
 
 
   🐧 Habilidades
