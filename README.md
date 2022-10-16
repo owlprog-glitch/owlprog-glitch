@@ -28,7 +28,7 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 - Por qual motivo de antiga e nova? 
 Recentemente andei estudando as árvores de família da programação, algumas são upgrade daquela antiga com mudança no nome.
 
-- Marketing
+- Atualizando e relembrando Bancos de Dados (Relacional e não relacional)
 - Comportamento psicológico/Organizacional
 
 ⚡ Hobbies
