@@ -14,11 +14,12 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
   🐧 Habilidades
 
-  - SQL e NoSQL
+  - SQL e NoSQL - Server
   - Git
   - Planejamento de Projeto
-  - WEB
+  - WEB (pendente, motivo: relembrar estudos)
   - Linux
+  
 
 
 🌱 O que estou aprendendo?
@@ -37,7 +38,7 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 📎 Sobre o currículo, não postarei por motivo de orientação e proteção cibernética.
 
-<!--😄 Como surgiu esse nome?
+😄 Como surgiu esse nome?
 
 Hasnma: junção de Hashira com Kolunma (Desenho com Charge)
 Glitch: Na verdade nem me lembro por qual motivo dessa palavra. Mas talvez seja por causa de memórias. Algumas vezes quando sonho, aparece algo como estática de TV (mas isso é raro, não acontece toda hora) 
