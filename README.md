@@ -6,6 +6,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse r
 
 - Minha experiencia com programação começou quando estudei o curso técnico, e comecei a gostar, mas aquilo foi suficiente para eu decidir ir para faculdade, sendo que já sabia como era a jogada dos estudos.
 - Eu já tinha feito portfólio, mas não utilizei muito no início, agora que estou atualizando tudo colocando os projetos aleatórios (e contando como imagino)
+
 Aliás, conto como é meu dia-a-dia e utilizando a imaginação atráves dos códigos
 
 🔭 Mas qual linguagem de programação que utilizo? 
