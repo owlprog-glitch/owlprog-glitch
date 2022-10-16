@@ -23,10 +23,7 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 🌱 O que estou aprendendo?
 
-- Estou aprendendo um pouco as linguagens de programação "antiga e nova" que o mercado exige. 
-
-- Por qual motivo de antiga e nova? 
-Recentemente andei estudando as árvores de família da programação, algumas são upgrade daquela antiga com mudança no nome.
+- Estou aprendendo um pouco as linguagens de programação "antiga e nova" que o mercado exige. Recentemente andei estudando as árvores de família da programação, algumas são upgrade daquela antiga com mudança no nome. Algumas são evoluções das linguagens, exemplo: <a href="https://devskiller.com/history-of-programming-languages/">History of Programming Languages</a>
 
 - Atualizando e relembrando Bancos de Dados (Relacional e não relacional)
 - Comportamento psicológico/Organizacional
