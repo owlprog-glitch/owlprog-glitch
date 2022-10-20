@@ -15,7 +15,7 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 ![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnma-glitch&show_icons=true&theme=cobalt&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnma-glitch&layout=demo&theme=dracula)](https://github.com/hasnma-glitch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnma-glitch&layout=compact&theme=dracula)](https://github.com/hasnma-glitch/github-readme-stats)
 
   🐧 Habilidades
 
