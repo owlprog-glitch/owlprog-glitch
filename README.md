@@ -1,4 +1,5 @@
 _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse recurso recentemente):_
+-> Ainda não coloquei a hospedagem nos repositórios, farei mais tarde (ainda to pesquisando), mas veja o README.md de cada um
 
 - 24 anos | ♓ | Leitura <3 | Programação | Desenhos
 
