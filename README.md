@@ -13,6 +13,9 @@ Aliás, conto como é meu dia-a-dia e utilizando a imaginação atráves dos có
 
 _Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android. Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧._
 
+![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnma-glitch&show_icons=true&theme=cobalt&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnma-glitch&layout=demo&theme=dracula)](https://github.com/hasnma-glitch/github-readme-stats)
 
   🐧 Habilidades
 
@@ -40,10 +43,10 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 📎 Sobre o currículo, não postarei por motivo de orientação e proteção cibernética.
 
-😄 Como surgiu esse nome?
+<!--😄 Como surgiu esse nome?
 
 Hasnma: junção de Hashira com Kolunma (Desenho com Charge)
-Glitch: Na verdade nem me lembro por qual motivo dessa palavra. Mas talvez seja por causa de memórias. Algumas vezes quando sonho, aparece algo como estática de TV (mas isso é raro, não acontece toda hora) 
+Glitch: Na verdade nem me lembro por qual motivo dessa palavra. Mas talvez seja por causa de memórias. Algumas vezes quando sonho, aparece algo como estática de TV (mas isso é raro, não acontece toda hora)-->
 
 <!--**hasnma-glitch/hasnma-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
