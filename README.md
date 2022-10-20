@@ -15,17 +15,18 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 
 ![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnma-glitch&show_icons=true&theme=dracula&hide=contribs,prs)
 
+A imagem abaixo, demonstra as linguagens que utilizei nos projetos (desde de 2016)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnma-glitch&layout=compact&theme=dracula)](https://github.com/hasnma-glitch/github-readme-stats)
 
-  🐧 Habilidades
+  🐧 Algumas Habilidades
 
   - SQL e NoSQL - Server
   - Git
   - Planejamento de Projeto
-  - WEB (pendente, motivo: relembrar estudos)
   - Linux
   
-
+A maioria das linguagens foram atualizadas e teve evolução, farei algumas revisões
 
 🌱 O que estou aprendendo?
 
@@ -37,7 +38,7 @@ _Depende. Pois quando o mercado pede, faço bastante treinamento para entender a
 ⚡ Hobbies
 
 - Animes e mangás
-- Desenho (Na verdade, a maioria dos desenhos são psicológicos, por isso não posso mostrar muito)
+- Desenhos
 - Amo livros (além de analisar os personagens)
 - Costura e cozinhar
 
