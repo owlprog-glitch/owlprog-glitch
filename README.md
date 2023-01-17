@@ -15,11 +15,11 @@ Aliás, conto como é meu dia-a-dia e utilizando a imaginação atráves dos có
 
 _Depende. Pois quando o mercado pede, faço bastante treinamento para entender aquela linguagem. Por exemplo, antes eu aprendi PHP e Android. Agora hoje em dia, programo apenas em server e também por hobby (por enquanto). Utilizo o sistema Linux, mas por enquanto estou utilizando Windows até arrumar um notebook novo só para o 🐧._
 
-![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnma-glitch&show_icons=true&theme=dracula&hide=contribs,prs)
+![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsowl-glitch&show_icons=true&theme=dracula&hide=contribs,prs)
 
 A imagem abaixo, demonstra as linguagens que utilizei nos projetos (desde de 2016)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnma-glitch&layout=compact&theme=dracula)](https://github.com/hasnma-glitch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsowl-glitch&layout=compact&theme=dracula)](https://github.com/hsowl-glitch/github-readme-stats)
 
   🐧 Algumas Habilidades
 
