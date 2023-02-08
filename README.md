@@ -1,8 +1,11 @@
 _Bem... Eu quase nunca contei muito sobre mim, então vamos lá (descobri esse recurso recentemente)_
 
--> Ainda não coloquei a hospedagem nos repositórios, farei mais tarde (ainda to pesquisando), mas veja o README.md de cada um<-
+⚠️Avisos
 
-- ♓ | Leitura <3 | Programação | Desenhos
+> Ainda não coloquei a hospedagem nos repositórios, farei mais tarde (ainda to pesquisando), mas veja o README.md de cada um;
+> Sobre a demonstração do Figma, apenas utilizo para mostrar como irá ser o repositório em Pages, mas com mudanças de layout como é uma demonstração;
+_____________________________________________________________________________________________________________________________________________________________________
+- Leitura <3 | Programação | Desenhos
 
 💬 Experiência
 
