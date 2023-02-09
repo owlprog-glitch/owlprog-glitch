@@ -7,7 +7,7 @@ _Bem... Eu quase nunca contei muito sobre mim, então vamos lá_
 _____________________________________________________________________________________________________________________________________________________________________
 - Leitura <3 | Programação | Desenhos
 
-![](https://komarev.com/ghpvc/?username=owlprog-glitch&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=owlprog-glitch&color=blueviolet&style=flat)
 
 💬 Experiência
 
