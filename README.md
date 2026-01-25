@@ -1,15 +1,16 @@
 # 💻 Koluma | Cyber Profile 👾
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyber Intro" width="300"/>
+# 🌐 Sobre Mim
+<div align="left">
+Programadora, designer e entusiasta de tecnologia.  
+Misturo **códigos, desenhos e imaginação** 
+para criar projetos e contar histórias.  
+Sempre aprendendo, sempre atualizando.
 </div>
 
----
-
-## 🌐 Sobre Mim
-Programadora, designer e entusiasta de tecnologia.  
-Misturo **códigos, desenhos e imaginação** para criar projetos e contar histórias.  
-Sempre aprendendo, sempre atualizando.  
+<div align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cyber Intro" width="300"/>
+</div>
 
 ---
 
