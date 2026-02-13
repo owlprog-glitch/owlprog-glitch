@@ -18,9 +18,9 @@ Sempre aprendendo, sempre atualizando.
 
 | 🛠 Skills | 🎨 Hobbies | 📫 Contato |
 |-----------|------------|------------|
-| SQL / NoSQL | Desenhos & Mangás | Email: **seuemail@exemplo.com** |
-| PHP / Server | Livros (análise de personagens) | LinkedIn: **@seuperfil** |
-| Git / GitHub | Culinária & Costura | Twitter: **@seuperfil** |
+| SQL / NoSQL | Desenhos & Mangás | Email: pilarsnlcorp@gmail.com ou pi.owlprogm@proton.me |
+| PHP / Server | Livros (análise de personagens) | LinkedIn: @pilar-santos |
+| Git / GitHub | Culinária & Costura |
 | Linux | Animes & Games | - |
 
 ---
