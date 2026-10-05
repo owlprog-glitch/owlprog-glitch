@@ -40,6 +40,14 @@ Sempre aprendendo, sempre atualizando.
 | Evolução das Linguagens | Performance & Otimização | Gestão e Planejamento Organizacional |
 
 ---
+## 🛡️ Foco em Cibersegurança
+> "Cibersegurança vai além de identificar vulnerabilidades: o verdadeiro valor está na resolução de problemas, na integridade dos dados e na transparência."
+
+| Pilar | Abordagem | Aplicação Prática |
+| :--- | :--- | :--- |
+| **Purple Team (Red + Blue)** | Integração Ataque/Defesa | Validação de falhas, *hardening* de sistemas e melhoria contínua de detecções. |
+| **Segurança de Dados, Auditoria & Transparência Pública** | Integridade & OSINT | Criptografia (LUKS, PGP), análise de integridade de dados e auditoria de fontes públicas. |
+---
 
 ## 🔮 Projetos & Portfólio
 Mostro meus projetos **aleatórios e experimentais**, combinando código e criatividade.  
