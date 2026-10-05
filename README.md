@@ -25,14 +25,6 @@ Sempre aprendendo, sempre atualizando.
 
 ---
 
-## 🔭 GitHub Stats
-<div align="center">
-  <!-- Stats de contribuições -->
-  <img src="https://github-readme-stats.vercel.app/api?username=owlprog-glitch&show_icons=true&theme=dark" width="45%" style="margin-right: 10px"/>
-</div>
-
----
-
 ## 🌱 Aprendizado Atual
 | Linguagens | Bancos de Dados | Psicologia / Organização |
 |------------|----------------|-------------------------|
@@ -51,7 +43,7 @@ Sempre aprendendo, sempre atualizando.
 
 ## 🔮 Projetos & Portfólio
 Mostro meus projetos **aleatórios e experimentais**, combinando código e criatividade.  
-Layouts inspirados em **Figma e UI futurista**, cada projeto com sua história.  
+Layouts inspirados em **Figma e UI futurista**, cada projeto com sua história e imaginação.
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300"/>
